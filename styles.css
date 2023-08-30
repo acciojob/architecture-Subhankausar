@@ -21,7 +21,7 @@ body {
 /* Style for the custom table */
 .custom-table {
     width: 100%;
-    border-collapse: collapse;
+	border:.2;
 }
 
 /* Style for table columns */
