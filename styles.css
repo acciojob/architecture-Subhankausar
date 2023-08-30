@@ -29,6 +29,7 @@ body {
 .mid {
     padding: 10px;
     border: 1px solid #000;
+	text-align:center;
 }
 
 /* Set width for the edge columns */
